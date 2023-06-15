@@ -41,11 +41,21 @@ hr {
     color: white;
     border-radius: 10px;
 }
+.header-span:hover {
+    cursor: pointer;
+    background-color: #080857;
+}
 .get-request {
     color: green;
 }
 .post-request {
     color: #757505;
+}
+.delete-request {
+    color: red;
+}
+.put-request {
+    color: blue;
 }
 .video-place {
     width: 60%;
